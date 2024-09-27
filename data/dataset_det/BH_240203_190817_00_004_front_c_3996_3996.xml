@@ -1,0 +1,26 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>BH_240203_190817_00_004_front_c_3996_3996.jpg</filename>
+  <source>
+    <annotation>PASCAL VOC2007</annotation>
+    <database>LAMOST</database>
+    <image>flickr</image>
+    <flickrid>35435</flickrid>
+  </source>
+  <size>
+    <width>832</width>
+    <height>832</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>collision</name>
+    <id_pair>['H3114', 'H3215']</id_pair>
+    <flux_dif>[0.68, 2.44]</flux_dif>
+    <bndbox>
+      <xmin>606.5</xmin>
+      <ymin>455.5</ymin>
+      <xmax>666.5</xmax>
+      <ymax>515.5</ymax>
+    </bndbox>
+  </object>
+</annotation>
